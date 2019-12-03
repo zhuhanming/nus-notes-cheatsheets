@@ -10,7 +10,7 @@
 - [CS2040 - Data Structures and Algorithms (Taken in AY18/19 Special Term II)](#cs2040---data-structures-and-algorithms)
 - [CS2107 - Introduction to Information Security (Taken in AY19/20 Semester 1)](#cs2107---introduction-to-information-security)
 
-## [CS2030 - Programming Methodology II](https://www.notion.so/hanming/64da42c8ec39442eb7c4890b04511dbb#47992ac471134317b562734311454353)
+## [CS2030 - Programming Methodology II](https://github.com/zhuhanming/nus-cs-notes/tree/master/cs2030)
 
 *Taught by Mr Adi Sidi Yoga Prabawa, AY18/19 Special Term II*
 
