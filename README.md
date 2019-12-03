@@ -42,6 +42,7 @@
     - Prim's/Kruskal's
     - Bellman Ford's
     - Dijkstra's (Original/Modified)
+    - Floyd-Warshall
 
 ## [CS2107 - Introduction to Information Security](https://github.com/zhuhanming/nus-cs-notes/tree/master/cs2107)
 
