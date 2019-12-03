@@ -1,5 +1,3 @@
-# Untitled
-
 # NUS Computer Science Notes
 
 *By Hanming Zhu (2019-2023)*
