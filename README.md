@@ -2,6 +2,14 @@
 
 *By Hanming Zhu (2019-2023)*
 
+These are some notes written by me during the course of my time in NUS Computer Science. They are not meant to be used as cheatsheets during exam, but as revision materials or even **replacements for lecture notes**. 
+
+These notes include information from, but not limited to:
+- Lecture Notes
+- Tutorials, Assignments and Past Year Papers
+- Textbooks
+- Online resources (Relevant sites, Udemy courses)
+
 ## Contents
 
 - [CS2030 - Programming Methodology II (Taken in AY18/19 Special Term II)](#cs2030---programming-methodology-ii)
