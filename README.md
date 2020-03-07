@@ -1,4 +1,4 @@
-# NUS Computer Science Notes
+# NUS Computer Science Notes & Cheatsheets
 
 *By Hanming Zhu (2019-2023)*
 
@@ -17,7 +17,7 @@ These notes/cheatsheets include information from, but not limited to:
 - [CS2107 - Introduction to Information Security (Taken in AY19/20 Semester 1)](#cs2107---introduction-to-information-security)
 - [MA1101R - Linear Algebra I (Taken in AY19/20 Semester 2)](#ma1101r---linear-algebra-i)
 
-## [CS2030 - Programming Methodology II](cs2030)
+## [CS2030 - Programming Methodology II](cs2030) (Notes)
 
 *Taught by Mr Adi Sidi Yoga Prabawa, AY18/19 Special Term II*
 
@@ -28,7 +28,7 @@ These notes/cheatsheets include information from, but not limited to:
 - Object Oriented Programming
 - Streams and Functional Programming
 
-## [CS2040 - Data Structures and Algorithms](cs2040)
+## [CS2040 - Data Structures and Algorithms](cs2040) (Notes)
 
 *Taught by Dr Chong Ket Fah, AY18/19 Special Term II*
 
@@ -59,7 +59,7 @@ These notes/cheatsheets include information from, but not limited to:
     - Dijkstra's (Original/Modified)
     - Floyd-Warshall
 
-## [CS2107 - Introduction to Information Security](cs2107)
+## [CS2107 - Introduction to Information Security](cs2107) (Notes)
 
 *Taught by Dr Sufatrio, AY19/20 Semester 1*
 
@@ -78,7 +78,7 @@ These notes/cheatsheets include information from, but not limited to:
 - Software Security
 - Web Security
 
-## [MA1101R - Linear Algebra I](ma1101r)
+## [MA1101R - Linear Algebra I](ma1101r) (Cheatsheets)
 
 *Taught by Prof Raghavan Dilip, AY19/20 Semester 2*
 
