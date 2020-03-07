@@ -12,11 +12,26 @@ These notes include information from, but not limited to:
 
 ## Contents
 
+- [MA1101R - Linear Algebra I (Taken in AY19/20 Semester 2)](#ma1101r---linear-algebra-i)
 - [CS2030 - Programming Methodology II (Taken in AY18/19 Special Term II)](#cs2030---programming-methodology-ii)
 - [CS2040 - Data Structures and Algorithms (Taken in AY18/19 Special Term II)](#cs2040---data-structures-and-algorithms)
 - [CS2107 - Introduction to Information Security (Taken in AY19/20 Semester 1)](#cs2107---introduction-to-information-security)
 
-## [CS2030 - Programming Methodology II](https://github.com/zhuhanming/nus-cs-notes/tree/master/cs2030)
+## [MA1101R - Linear Algebra I](ma1101r)
+
+*Taught by Prof Raghavan Dilip, AY19/20 Semester 2*
+
+### Concepts Covered:
+
+- Linear Systems and Gaussian Elimination
+- Matrices
+- Vector Spaces
+- Vector Spaces Associated with Matrices
+- Orthogonality
+- Diagonalization
+- Linear Transformations
+
+## [CS2030 - Programming Methodology II](cs2030)
 
 *Taught by Mr Adi Sidi Yoga Prabawa, AY18/19 Special Term II*
 
@@ -25,7 +40,7 @@ These notes include information from, but not limited to:
 - Object Oriented Programming
 - Streams and Functional Programming
 
-## [CS2040 - Data Structures and Algorithms](https://github.com/zhuhanming/nus-cs-notes/tree/master/cs2040)
+## [CS2040 - Data Structures and Algorithms](cs2040)
 
 *Taught by Dr Chong Ket Fah, AY18/19 Special Term II*
 
@@ -52,7 +67,7 @@ These notes include information from, but not limited to:
     - Dijkstra's (Original/Modified)
     - Floyd-Warshall
 
-## [CS2107 - Introduction to Information Security](https://github.com/zhuhanming/nus-cs-notes/tree/master/cs2107)
+## [CS2107 - Introduction to Information Security](cs2107)
 
 *Taught by Dr Sufatrio, AY19/20 Semester 1*
 
