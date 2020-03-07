@@ -2,7 +2,7 @@
 
 *By Hanming Zhu (2019-2023)*
 
-These are some notes and cheatsheets written by me during the course of my time in NUS Computer Science. They are not meant to be used as cheatsheets during exam, but as revision materials or even **replacements for lecture notes**. 
+These are some notes and cheatsheets written by me during the course of my time in NUS Computer Science. The notes are meant to be used as revision materials or even **replacements for lecture notes**. 
 
 These notes/cheatsheets include information from, but not limited to:
 - Lecture Notes
