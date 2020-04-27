@@ -12,11 +12,11 @@ These notes/cheatsheets include information from, but not limited to:
 
 ## Contents (in chronological order)
 
-- [CS2030 - Programming Methodology II (Taken in AY18/19 Special Term II)](#cs2030---programming-methodology-ii)
-- [CS2040 - Data Structures and Algorithms (Taken in AY18/19 Special Term II)](#cs2040---data-structures-and-algorithms)
-- [CS2107 - Introduction to Information Security (Taken in AY19/20 Semester 1)](#cs2107---introduction-to-information-security)
-- [MA1101R - Linear Algebra I (Taken in AY19/20 Semester 2)](#ma1101r---linear-algebra-i)
-- [GER1000 - Quantitative Reasoning (Taken in AY19/20 Semester2)](#ger1000---quantitative-reasoning)
+- [CS2030 - Programming Methodology II (Taken in AY18/19 Special Term II)](#cs2030---programming-methodology-ii-notes)
+- [CS2040 - Data Structures and Algorithms (Taken in AY18/19 Special Term II)](#cs2040---data-structures-and-algorithms-notes)
+- [CS2107 - Introduction to Information Security (Taken in AY19/20 Semester 1)](#cs2107---introduction-to-information-security-notes)
+- [MA1101R - Linear Algebra I (Taken in AY19/20 Semester 2)](#ma1101r---linear-algebra-i-cheatsheets)
+- [GER1000 - Quantitative Reasoning (Taken in AY19/20 Semester2)](#ger1000---quantitative-reasoning-notes)
 
 ## [CS2030 - Programming Methodology II](cs2030) (Notes)
 
