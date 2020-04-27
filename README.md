@@ -198,3 +198,24 @@ These notes/cheatsheets include information from, but not limited to:
 - Orthogonality
 - Diagonalization
 - Linear Transformations
+
+## [GER1000 - Quantitative Reasoning](ger1000) (Notes)
+
+*Headed by Prof Yap Von Bing, AY19/20 Semester 2*
+
+<p align="center">
+    <a href="ger1000/GER1000 Notes.pdf" target="_blank">
+        <img src="docs/ger1000-img1.png" width="15%" alt="GER1000 Notes"/>
+    </a>
+</p>
+<p align="center"><em><sup>Website version of the notes can also be accessed <a href="https://www.notion.so/GER1000-Notes-1fdda95730e94b758676ac64f01dae3c" target="_blank" noreferrer noopener >here on Notion</a>.</sup></em></p>
+
+
+### Concepts Covered:
+
+- QR Framework
+- Design of Studies
+- Association
+- Sampling
+- Observational Studies
+- Uncertainty
