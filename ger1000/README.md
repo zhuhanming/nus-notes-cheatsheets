@@ -165,7 +165,7 @@ The correlation coefficient, r, is a measure of **linear** association between t
 
 Interpreting the correlation coefficient:
 
-![GER1000%20Notes/Screenshot_2020-04-26_at_9.02.22_AM.png](GER1000%20Notes/Screenshot_2020-04-26_at_9.02.22_AM.png)
+<p align="center"><img src="images/coefficient_strengths.png" width="70%"/></p>
 
 1. **r > 0:** There is a positive association.
 2. **r < 0:** There is a negative association.
@@ -179,7 +179,7 @@ To compute r, we need to do the following for each data point: ((x - average_x) 
 
 In other words, if there are 1078 data points,
 
-![GER1000%20Notes/Screenshot_2020-04-26_at_9.06.55_AM.png](GER1000%20Notes/Screenshot_2020-04-26_at_9.06.55_AM.png)
+<p align="center"><img src="images/coefficient_calculation.png" width="80%" /></p>
 
 **Switching** the two axes/variables **does not** **change** the correlation coefficient.
 
@@ -431,7 +431,7 @@ You can use a cross-product-ratio to calculate the estimated odds ratio. Let the
 
 ### Summary Slide: Risks and Odds
 
-![GER1000%20Notes/Screenshot_2020-04-26_at_6.50.29_PM.png](GER1000%20Notes/Screenshot_2020-04-26_at_6.50.29_PM.png)
+<p align="center"><img src="images/risk_odds_slide.png" width="80%" /></p>
 
 ### Type of Study: Cohort Study
 
@@ -467,7 +467,7 @@ With case control studies, you **cannot calculate odds** and also **cannot calcu
 
 ### Summary Slide: Studies
 
-![GER1000%20Notes/Screenshot_2020-04-26_at_7.05.37_PM.png](GER1000%20Notes/Screenshot_2020-04-26_at_7.05.37_PM.png)
+<p align="center"><img src="images/studies_slide.png" width="80%" /></p>
 
 ## Uncertainty
 
