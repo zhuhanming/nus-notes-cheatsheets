@@ -1,10 +1,6 @@
 # GER1000 Notes
 
-Class: GER1000
-Created: Apr 25, 2020 3:47 PM
-Field: General Education
-Reviewed: No
-Type: Notes
+The following notes are adapted from the [original copy on Notion](https://www.notion.so/hanming/GER1000-Notes-1fdda95730e94b758676ac64f01dae3c). Do check it out there for the beautified version.
 
 ## Legend
 
@@ -183,7 +179,7 @@ To compute r, we need to do the following for each data point: ((x - average_x) 
 
 In other words, if there are 1078 data points,
 
-<p align="center"><img src="images/coefficient_calculation.png" width="80%" /></p>
+<p align="center"><img src="images/coefficient_calculation.png" width="50%" /></p>
 
 > :bulb: **Switching** the two axes/variables **does not** **change** the correlation coefficient.
 
