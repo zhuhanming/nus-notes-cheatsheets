@@ -8,9 +8,9 @@ Type: Notes
 
 ## Legend
 
-This is an exam point!
+> :fire: This is an exam point!
 
-This is a good to know!
+> :bulb: This is a good to know!
 
 ## QR Framework
 
@@ -28,7 +28,7 @@ This is a good to know!
 
 We want to see the effect of some treatment. There is thus a need compare the treatment effect using a **treatment group** and a **control group**. This eliminates the **effect of time**. This is called a **controlled experiment.**
 
-**Effect of Time:** Sometimes, it may be tempting to use historical controls. However, there are a lot of confounders.
+> :bulb: **Effect of Time:** Sometimes, it may be tempting to use historical controls. However, there are a lot of confounders.
 
 If control and treatment groups are similar, a difference in response can be attributed to the treatment, else the treatment effect may be confounded with some other factor.
 
@@ -40,11 +40,11 @@ This leads us to Randomised Assignment.
 
 Using an impartial procedure based on chance, such as random draws without replacement, we can form two groups from the willing subjects randomly.
 
-**Random:** Strict meaning related to an impartial chance mechanism.
+> :fire: **Random:** Strict meaning related to an impartial chance mechanism.
 
 The **law of large numbers** ensures that all confounding factors are almost equally present in both groups.
 
-**Randomised controlled experiments** minimise confounding.
+> :fire: **Randomised controlled experiments** minimise confounding.
 
 ### Problem Again: Awareness of one's group
 
@@ -70,7 +70,7 @@ What if the "treatment" is something negative, such as smoking? Controlled exper
 
 In an observational study, investigators **do not assign** the subjects to the groups.
 
-However, there are still treatment and control groups. It is a **self-selecting process.**
+> :fire: However, there are still treatment and control groups. It is a **self-selecting process.**
 
 In these cases, the "treatment" is also called the **exposure variable**, while the outcome, whether the subject gets "treated", is the **disease** or **response**.
 
@@ -86,13 +86,17 @@ Furthermore, an observational study **can only establish association**.
 
 We can represent the results of an observational study using a 2x2 table. Note that it's 2x2 because the exposure and disease are both either present or absent, and do not refer to the actual dimensions of the table.
 
-[2x2 Table](https://www.notion.so/3cd4f157299349c1a19a8ad4d539fd6e)
+|              | Diseased | Not Diseased | Row Total |
+| ------------ | -------- | ------------ | --------- |
+| Exposed      | 38       | 14962        | 15000     |
+| Not Exposed  | 44       | 84956        | 85000     |
+| Column Total | 82       | 99918        | 100000    |
 
 There are thus two ways to show association.
 
-**Disease (X) and Exposure (Y) are associated if**
-1. Rate(X|Y) ≠ Rate(X|not Y), or
-2. Rate(Y|X) ≠ Rate(Y|not X)
+> :fire: **Disease (X) and Exposure (Y) are associated if**
+> 1. Rate(X|Y) ≠ Rate(X|not Y), or
+> 2. Rate(Y|X) ≠ Rate(Y|not X)
 
 where Rate(X|Y) = ((X and Y) ÷ Y) x 100%.
 
@@ -100,26 +104,26 @@ Using the table above, Rate(Exposed|Diseased) = 38 ÷ 82 x  100% = 46.3%, while 
 
 Since the two rates are not equal, there is an association between the exposure and the disease.
 
-If Rate(X|Y) ≠ Rate(X|not Y), then Rate(Y|X) ≠ Rate(Y|not X).
+> :fire: If Rate(X|Y) ≠ Rate(X|not Y), then Rate(Y|X) ≠ Rate(Y|not X).
 
-**Direction of Association**
-If Rate(X|Y) > Rate(X|not Y), then X and Y are positively associated.
-If Rate(X|Y) < Rate(X|not Y), then X and Y are negatively associated.
+> :fire: **Direction of Association**
+> If Rate(X|Y) > Rate(X|not Y), then X and Y are positively associated.
+> If Rate(X|Y) < Rate(X|not Y), then X and Y are negatively associated.
 
-**Combining Rates**
-If Rate(A|B) = x and Rate(A|C) = y with x ≠ y, then overall r(A|B+C) is between x and y.
+> :fire: **Combining Rates**
+> If Rate(A|B) = x and Rate(A|C) = y with x ≠ y, then overall r(A|B+C) is between x and y.
 
 ### Problem: Confounding
 
-A **confounder** is a factor associated with both the exposure and the disease.
+> :fire: A **confounder** is a factor associated with both the exposure and the disease.
 
 Confounders obscure the relationship between the exposure and the disease.
 
-**Association is not causation.**
+> :fire: **Association is not causation.**
 
 Since confounders may be involved, association is not causation.
 
-A confounder **must be different** from the exposure and the disease.
+> :fire: A confounder **must be different** from the exposure and the disease.
 
 ### Solution: Slicing
 
@@ -135,7 +139,7 @@ The Yule-Simpson Paradox occurs when relationships between subgroups are reverse
 
 In other words, if in **most** groups Rate(A|B) > Rate(A|not B), but the combined group has Rate(A|B) ≤ Rate(A|not B), then Yule-Simpson Paradox has occurred.
 
-If the Yule-Simpson Paradox is observed, **then there is confounding**. However, **the reverse may not be true**; not all confounding results in the paradox.
+> :fire: If the Yule-Simpson Paradox is observed, **then there is confounding**. However, **the reverse may not be true**; not all confounding results in the paradox.
 
 ### More on Association: Statistical Relationship
 
@@ -143,11 +147,11 @@ If the Yule-Simpson Paradox is observed, **then there is confounding**. However,
 
 In studies, we're interested to found an average pattern of one variable in terms of another. This would help us to figure out **non-deterministic relationships**.
 
-A **deterministic relationship** allows for precise determination of one variable's true value from another, usually using a formula.
+> :bulb: A **deterministic relationship** allows for precise determination of one variable's true value from another, usually using a formula.
 
 ### Analysing Bivariate Data
 
-**Bivariate data** refers to a data set with each data point containing values of two variables.
+> :bulb: **Bivariate data** refers to a data set with each data point containing values of two variables.
 
 There are a few ways to analyse bivariate data:
 
@@ -173,7 +177,7 @@ Interpreting the correlation coefficient:
 4. **r = 1:** Perfect positive association. All points lie along a single straight line.
 5. **r = -1:** Perfect negative association. All points lie along a single straight line.
 
-In the first two cases, the actual relationship **may not be linear!** It can be a curve that also displays some linear association. We need to look at the scatter diagram. High r does not mean it's linear.
+> :fire: In the first two cases, the actual relationship **may not be linear!** It can be a curve that also displays some linear association. We need to look at the scatter diagram. High r does not mean it's linear.
 
 To compute r, we need to do the following for each data point: ((x - average_x) ÷ standard_deviation_x)((y - average_y) ÷ standard_deviation_y). We then need to get the average of this value for all data points.
 
@@ -181,11 +185,11 @@ In other words, if there are 1078 data points,
 
 <p align="center"><img src="images/coefficient_calculation.png" width="80%" /></p>
 
-**Switching** the two axes/variables **does not** **change** the correlation coefficient.
+> :bulb: **Switching** the two axes/variables **does not** **change** the correlation coefficient.
 
-**Adding a constant** to all values of a variable **does not change** the correlation coefficient.
+> :bulb: **Adding a constant** to all values of a variable **does not change** the correlation coefficient.
 
-**Multiplying** a **positive** number to all values of a variable **does not change** the correlation coefficient.
+> :bulb: **Multiplying** a **positive** number to all values of a variable **does not change** the correlation coefficient.
 
 ### Limitations of Correlation Coefficient
 
@@ -199,7 +203,7 @@ Thirdly, correlation only tells us information about linear association, even if
 
 Often, we have ecological correlation, which is correlation based on aggregated data.
 
-**Ecological fallacy** occurs when we deduce inferences on correlation between individuals based on aggregated data.
+> :fire: **Ecological fallacy** occurs when we deduce inferences on correlation between individuals based on aggregated data.
 
 If ecological and individual correlations are in the same direction, we will end up **overstating** the strength of the association in individuals, since all variations in individual data are eliminated when aggregated.
 
@@ -207,17 +211,17 @@ They may even be in opposite directions! That's even worse.
 
 ### Correlation Fallacy: Atomistic
 
-**Atomistic fallacy** occurs when we generalise the correlation based on individuals towards the aggregate-level correlation.
+> :fire: **Atomistic fallacy** occurs when we generalise the correlation based on individuals towards the aggregate-level correlation.
 
 ### Correlation Fallacy: Overgeneralisation
 
-**Overgeneralisation** occurs when we generalise a correlation based on a **subset** of individuals towards a larger set of individuals. No aggregation is occurring here.
+> :bulb: **Overgeneralisation** occurs when we generalise a correlation based on a **subset** of individuals towards a larger set of individuals. No aggregation is occurring here.
 
 ### Correlation Phenomena: Attenuation Effect
 
-**Attenuation effect** is what happens when we restrict the range of one variable and cause the correlation coefficient to **decrease in strength**. The scatter plot should be an oval shape for this to occur.
+> :fire: **Attenuation effect** is what happens when we restrict the range of one variable and cause the correlation coefficient to **decrease in strength**. The scatter plot should be an oval shape for this to occur.
 
-When this occurs, it means that both variables follow a **normal distribution.** The scatter plot should thus be an oval shape.
+> :bulb: When this occurs, it means that both variables follow a **normal distribution.** The scatter plot should thus be an oval shape.
 
 ### Correlation Phenomena: Removal of Data Points
 
@@ -227,15 +231,15 @@ Don't.
 
 If we can find a best fit line to a certain set of data, we can use it to predict values. This line is called the regression line.
 
-$$Y = a + bX$$
+![$Y = a + bX$](https://render.githubusercontent.com/render/math?math=%24Y%20%3D%20a%20%2B%20bX%24)
 
 The determination of a and b is done using the **least squares method**. Y is the prediction, X is a predictor. We use X to predict Y.
 
-The Y predicted is an average value for a given X.
+> :fire: The Y predicted is an average value for a given X.
 
-We **cannot** use it to predict Y using a value of X that is beyond the range in the data set. In other words, **extrapolation** is **not okay.**
+> :fire: We **cannot** use it to predict Y using a value of X that is beyond the range in the data set. In other words, **extrapolation** is **not okay.**
 
-Gradient, b, is not the same as the correlation coefficient, r, generally.
+> :bulb: Gradient, b, is not the same as the correlation coefficient, r, generally.
 
 ## Sampling
 
@@ -251,7 +255,7 @@ Gradient, b, is not the same as the correlation coefficient, r, generally.
 
 **Sampling Unit:** An intermediate unit for sampling. For example, the actual unit may be people, and a sampling unit may be the address of the person, or the doctor this person visits etc. The simplest sampling unit would be the unit itself.
 
-A sampling unit is **not the same** as a population unit.
+> :bulb: A sampling unit is **not the same** as a population unit.
 
 **Sampling Frame:** A list of sampling units intended to identify all units in the population.
 
@@ -265,7 +269,7 @@ For this to be possible, **every unit must have a possibility of being selected.
 
 The possibility **must be equal**, i.e. selection process is not biased.
 
-As long as **sampling is being done instead of a census**, the limitation of subjects not being representative of the population will hold.
+> :fire: As long as **sampling is being done instead of a census**, the limitation of subjects potentially not being representative of the population will hold.
 
 ### Good Sampling Frame: How?
 
@@ -273,13 +277,13 @@ A good sampling frame covers **exactly or bigger** than the target population su
 
 It must also be **up-to-date and complete**.
 
-**Imperfect sampling frames** can result in too many unwanted units, increasing the cost of study. If it excludes desired units, we would need to either redefine the target population, or assess the impact of excluding those units.
+> :bulb: **Imperfect sampling frames** can result in too many unwanted units, increasing the cost of study. If it excludes desired units, we would need to either redefine the target population, or assess the impact of excluding those units.
 
 ### Probability Sampling: Best Type of Sampling Plans
 
-Every unit in the population must have a **known non-zero probability** of being selected into the sample.
+> :fire: Every unit in the population must have a **known non-zero probability** of being selected into the sample.
 
-There is no need for this probability to be equal!
+> :bulb: There is no need for this probability to be equal!
 
 This ensures that there are no external influences in our selection process.
 
@@ -291,13 +295,13 @@ Every possible sample of the same size has the same chance of being selected.
 
 Let's say the sample size is N, and the K = population size ÷ N. Then **a random number** from 1 to K is selected, and every K-th number from there is also selected to be part of the sample.
 
-The **starting selection must be random.**
+> :fire: The **starting selection must be random.**
 
-If the sampling units are arranged randomly, we can sometimes treat it as a **simple random sampling plan.**
+> :bulb: If the sampling units are arranged randomly, we can sometimes treat it as a **simple random sampling plan.**
 
 However, if there are **existing patterns** within the arrangement of the sampling units, we may end up with an undesirable sample.
 
-Systematic sampling is useful when you **don't know the number of sampling units** in the population.
+> :bulb: Systematic sampling is useful when you **don't know the number of sampling units** in the population.
 
 ### Stratified Sampling (Probability)
 
@@ -335,13 +339,13 @@ When the interviewer uses their own discretion to choose respondents who they de
 
 Each interviewer is given quota to fill based on some categories, e.g. X number of males, Y number of females, etc. They are free to interview anyone they like. Having the proportions of these categories in the sample similar to those in the population does not make the extension of the results derived from the sample to the population better.
 
-Quote sampling **does not simply mean** sampling to meet a quota. There must be quota for **multiple groups or categories,** based on certain characteristics.
+> :fire: Quote sampling **does not simply mean** sampling to meet a quota. There must be quota for **multiple groups or categories,** based on certain characteristics.
 
 ### Estimation Equation
 
-$$\text{Estimate} = \text{Parameter} + \text{Bias} +\text{Random Error}$$
+![$\text{Estimate} = \text{Parameter} + \text{Bias} +\text{Random Error}$](https://render.githubusercontent.com/render/math?math=%24%5Ctext%7BEstimate%7D%20%3D%20%5Ctext%7BParameter%7D%20%2B%20%5Ctext%7BBias%7D%20%2B%5Ctext%7BRandom%20Error%7D%24)
 
-Large sample size alone **does not mean** no bias. This is because "large" is not with respect to total population. Generally, >1000 respondents is a large sample.
+> :fire: Large sample size alone **does not mean** no bias. This is because "large" is not with respect to total population. Generally, >1000 respondents is a large sample.
 
 ### Bias: Selection
 
@@ -359,7 +363,7 @@ Systematic tendency from subjects who do not respond to the study. This is likel
 - Tone of interviewer
 - Subjects tend to understate undesirable social habits
 
-The tendency for people respond inaccurately is called **response bias**.
+> :bulb: The tendency for people respond inaccurately is called **response bias**.
 
 ### Random Error
 
@@ -377,11 +381,11 @@ It is also a way to report results while accounting for random error.
 
 We can thus use 95% CI: X ± Y to express we are 95% confident that the range from X - Y to X + Y contains the population parameter.
 
-95% CI means that if we repeat the experiment with **different samples but of the same size**, almost 95% will contain the true population parameter.
+> :fire: 95% CI means that if we repeat the experiment with **different samples but of the same size**, almost 95% will contain the true population parameter.
 
 With reference to random error, since increasing the sample size decreases random error, it also decreases the size of the confidence interval, i.e. more certain of where the parameter is.
 
-**Larger sample size** results in a smaller confidence interval.
+> :fire: **Larger sample size** results in a smaller confidence interval.
 
 ## More on Observational Studies
 
@@ -391,11 +395,15 @@ Risk is the **rate** of an **uncertain condition**.
 
 We can use a **2x2** **contingency table** for calculation purposes.
 
-[2x2 Contingency Table](https://www.notion.so/0c4eedd3810745668044244c21aef29a)
+|              | Diseased | Not Diseased | Row Total |
+| ------------ | -------- | ------------ | --------- |
+| Exposed      | 38       | 14962        | 15000     |
+| Not Exposed  | 44       | 84956        | 85000     |
+| Column Total | 82       | 99918        | 100000    |
 
 Thus, the **Risk(Disease) = 82 ÷ 100000 = 0.00082.**
 
-If there's a multi-level contingency table, e.g. 3x4, then to calculate any risks ratio, odds ratio etc., we need to choose the right values to form a 2x2 table. Generally, that'd mean we need to choose a baseline disease group and a baseline exposure group.
+> :bulb: If there's a multi-level contingency table, e.g. 3x4, then to calculate any risks ratio, odds ratio etc., we need to choose the right values to form a 2x2 table. Generally, that'd mean we need to choose a baseline disease group and a baseline exposure group.
 
 ### **Risk Ratio: Relative Risk**
 
@@ -403,9 +411,9 @@ Risk ratio = Risk(Diseased|Exposed) ÷ Risk(Diseased|Not Exposed) = (38 ÷ 15000
 
 This is also known as Relative Risk.
 
-**RR > 1:** The first group has greater risk. 
-**RR < 1:** The second group has greater risk.
-**RR = 1:** There is no association between the disease and the exposure.
+>:fire: **RR > 1:** The first group has greater risk. 
+> **RR < 1:** The second group has greater risk.
+> **RR = 1:** There is no association between the disease and the exposure.
 
 ### Odds: What is it?
 
@@ -423,11 +431,11 @@ Odds Ratio = Odds(Diseased|Exposed) ÷ Odds(Diseased|Not Exposed).
 
 With just the odds ratio, one is unable to calculate the risk ratio.
 
-**OR = 1:** No difference in disease risk between two groups, RR = 1
-**OR > 1:** Higher risk in first group, RR > 1
-**OR < 1:** Lower risk in first group, RR < 1
+> :fire:**OR = 1:** No difference in disease risk between two groups, RR = 1
+> **OR > 1:** Higher risk in first group, RR > 1
+> **OR < 1:** Lower risk in first group, RR < 1
 
-You can use a cross-product-ratio to calculate the estimated odds ratio. Let the disease be the first column, and the exposure be the first row. Then OR = (top left x bottom right) ÷ (bottom left x top right).
+> :bulb: You can use a cross-product-ratio to calculate the estimated odds ratio. Let the disease be the first column, and the exposure be the first row. Then OR = (top left x bottom right) ÷ (bottom left x top right).
 
 ### Summary Slide: Risks and Odds
 
@@ -441,29 +449,29 @@ After enrolling the subjects, they are then monitored to find out how many in ea
 
 It is, however, expensive.
 
-With cohort studies, you **can** **use** **the sample risk ratio to estimate the population risk ratio.**
+> :fire: With cohort studies, you **can** **use** **the sample risk ratio to estimate the population risk ratio.**
 
-With cohort studies, you **can** **use the sample odds ratio to estimate the population odds ratio**.
+> :fire: With cohort studies, you **can** **use the sample odds ratio to estimate the population odds ratio**.
 
-With cohort studies, **given the odds (not odds ratio), you can calculate the risks**, and vice versa.
+> :fire: With cohort studies, **given the odds (not odds ratio), you can calculate the risks**, and vice versa.
 
 ### Type of Study: Case Control Study
 
 A case control study is one where samples are taken from the disease groups. In other words, with reference to the contingency table, we **fix the column totals** and sample accordingly.
 
-Case control studies **are not controlled studies**.
+> :fire: Case control studies **are not controlled studies**.
 
 Since we are already sampling people who are either diseased or not, this is generally done **at the end of a time period**. Thus, it tends to be **backward-looking**, i.e. it looks at background.
 
 It is less expensive since less time is needed.
 
-It is also **good for rare diseases**, since we cannot expect a cohort study to show significant changes in the number diseased.
+> :fire: It is also **good for rare diseases**, since we cannot expect a cohort study to show significant changes in the number diseased.
 
-With case control studies, you **can** **use the sample odds ratio to estimate the population odds ratio**.
+> :fire: With case control studies, you **can** **use the sample odds ratio to estimate the population odds ratio**.
 
-With case control studies, you **cannot use** the sample risk ratio to estimate the population risk ratio (usually).
+> :fire: With case control studies, you **cannot use** the sample risk ratio to estimate the population risk ratio (usually).
 
-With case control studies, you **cannot calculate odds** and also **cannot calculate risk**.
+> :fire: With case control studies, you **cannot calculate odds** and also **cannot calculate risk**.
 
 ### Summary Slide: Studies
 
@@ -490,57 +498,57 @@ There are two ways to this:
 
 ### Complement Rule
 
-P(Event) = Probability of an event
+> :bulb: P(Event) = Probability of an event
 
-$$P(A^C)=1-P(A)$$
+![$P(A^C)=1-P(A)$](https://render.githubusercontent.com/render/math?math=%24P(A%5EC)%3D1-P(A)%24)
 
 ### Addition Rule
 
 For mutually exclusive events,
 
-$$P(A∪B)=P(A)+P(B)$$
+![$P(A\cup B)=P(A)+P(B)$](https://render.githubusercontent.com/render/math?math=%24P(A%5Ccup%20B)%3DP(A)%2BP(B)%24)
 
 For events that are not mutually exclusive,
 
-$$P(A∪B)=P(A)+P(B)-P(A∩B)$$
+![$P(A\cup B)=P(A)+P(B)-P(A\cap B)$](https://render.githubusercontent.com/render/math?math=%24P(A%5Ccup%20B)%3DP(A)%2BP(B)-P(A%5Ccap%20B)%24)
 
 ### Multiplication Rule
 
 For independent events,
 
-$$P(A∩B)=P(A)\cdot P(B)$$
+![$P(A\cap B)=P(A)\cdot P(B)$](https://render.githubusercontent.com/render/math?math=%24P(A%5Ccap%20B)%3DP(A)%5Ccdot%20P(B)%24)
 
 For events that are not independent,
 
-$$P(A∩B)=P(A)\cdot P(B|A)$$
+![$P(A\cap B)=P(A)\cdot P(B|A)$](https://render.githubusercontent.com/render/math?math=%24P(A%5Ccap%20B)%3DP(A)%5Ccdot%20P(B%7CA)%24)
 
 ### Conditional Probability
 
-$$P(A|B)=\frac{P(A∩B)}{P(B)}$$
+![$P(A|B)=\frac{P(A\cap B)}{P(B)}$](https://render.githubusercontent.com/render/math?math=%24P(A%7CB)%3D%5Cfrac%7BP(A%5Ccap%20B)%7D%7BP(B)%7D%24)
 
-P(A|B) generally does not equal P(B|A).
+> :bulb: P(A|B) generally does not equal P(B|A).
 
-Make sure to check that P(A∩B) has accounted for **both P(A) and P(B).** It's often easy to miss out one of them or take P(B|A) as P(A∩B).
+> :fire: Make sure to check that P(A∩B) has accounted for **both P(A) and P(B).** It's often easy to miss out one of them or take P(B|A) as P(A∩B).
 
 By the consistency rule,
 
-$$\text{if }P(A|B)>P(A),\text{ then }P(B|A)>P(B)$$
+![$\text{if } P(A|B) \text{ > } P(A), \text{ then } P(B|A) \text{ > } P(B)$](https://render.githubusercontent.com/render/math?math=%24%5Ctext%7Bif%20%7D%20P(A%7CB)%20%5Ctext%7B%20%3E%20%7D%20P(A)%2C%20%5Ctext%7B%20then%20%7D%20P(B%7CA)%20%5Ctext%7B%20%3E%20%7D%20P(B)%24)
 
 ### Relation to Odds
 
-$$Odds(E)=\frac{P(E)}{P(E^C)}$$
+![$Odds(E)=\frac{P(E)}{P(E^C)}$](https://render.githubusercontent.com/render/math?math=%24Odds(E)%3D%5Cfrac%7BP(E)%7D%7BP(E%5EC)%7D%24)
 
 ### Average Values
 
-$$\text{V}_\text{avg} = V(A)\cdot P(A)+V(B)\cdot P(B)+...$$
+![$\text{V}_\text{avg} = V(A)\cdot P(A)+V(B)\cdot P(B)+...$](https://render.githubusercontent.com/render/math?math=%24%5Ctext%7BV%7D_%5Ctext%7Bavg%7D%20%3D%20V(A)%5Ccdot%20P(A)%2BV(B)%5Ccdot%20P(B)%2B...%24)
 
 ### Hypothesis Testing
 
 Occasionally, we observe a phenomena and ask if it's by chance. We thus come up with two hypotheses.
 
-**Null hypothesis** states that the observation is purely due to chance.
+> :fire: **Null hypothesis** states that the observation is purely due to chance.
 
-**Alternate hypothesis** is the negation of the null hypothesis.
+> :fire: **Alternate hypothesis** is the negation of the null hypothesis.
 
 To see if an observation was simply due to chance, we calculate the probability of the observation + the probability of all equally extreme observations + the probability of more extreme observations, **assuming Null is true.**
 
@@ -548,11 +556,11 @@ This total probability is the p-value.
 
 If the p-value is low enough, usually <0.05, then we can reject the null hypothesis, else **we don't know if it's due to chance or not.**
 
-$$\text{P-value}=\text{P(observation | null is true)} + \text{P(equally extreme outcomes | null is true)}+\text{P(outcomes that are more extreme | null is true)}$$
+![$\text{P-value}=\text{P(observation | null is true)} + \text{P(equally extreme outcomes | null is true)}+\text{P(outcomes that are more extreme | null is true)}$](https://render.githubusercontent.com/render/math?math=%24%5Ctext%7BP-value%7D%3D%5Ctext%7BP(observation%20%7C%20null%20is%20true)%7D%20%2B%20%5Ctext%7BP(equally%20extreme%20outcomes%20%7C%20null%20is%20true)%7D%2B%5Ctext%7BP(outcomes%20that%20are%20more%20extreme%20%7C%20null%20is%20true)%7D%24)
 
-**Not rejecting** the null hypothesis **does not mean** that the null hypothesis is true.
+> :fire: **Not rejecting** the null hypothesis **does not mean** that the null hypothesis is true.
 
-We will never attempt to reject the alternate hypothesis since p-value cannot determine anything about the alternative hypothesis.
+> :fire: We will never attempt to reject the alternate hypothesis since p-value cannot determine anything about the alternative hypothesis.
 
 ### Testing Rare Events or Diseases
 
