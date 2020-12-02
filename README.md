@@ -20,9 +20,9 @@ These notes/cheatsheets include information from, but not limited to:
 - [CS2107 - Introduction to Information Security (Taken in AY19/20 Semester 1)](#cs2107---introduction-to-information-security-notes)
 - [MA1101R - Linear Algebra I (Taken in AY19/20 Semester 2)](#ma1101r---linear-algebra-i-cheatsheets)
 - [GER1000 - Quantitative Reasoning (Taken in AY19/20 Semester2)](#ger1000---quantitative-reasoning-notes)
-- [CS2105 - Introduction to Computer Networks (Taken in AY20/21 Semester 1)](#cs2105---introduction-to-computer-networks)
-- [CS2106 - Introduction to Operating Systems (Taken in AY20/21 Semester 1)](#cs2105---introduction-to-operating-systems)
-- [ST2334 - Probability and Statistics (Taken in AY20/21 Semester 1)](#st2334---probability-and-statistics)
+- [CS2105 - Introduction to Computer Networks (Taken in AY20/21 Semester 1)](#cs2105---introduction-to-computer-networks-cheatsheets)
+- [CS2106 - Introduction to Operating Systems (Taken in AY20/21 Semester 1)](#cs2105---introduction-to-operating-systems-cheatsheets)
+- [ST2334 - Probability and Statistics (Taken in AY20/21 Semester 1)](#st2334---probability-and-statistics-notes)
 
 ## [CS2030 - Programming Methodology II](cs2030) (Notes)
 
@@ -229,6 +229,12 @@ _Headed by Prof Yap Von Bing, AY19/20 Semester 2_
 ## [CS2105 - Introduction to Computer Networks](cs2105) (Cheatsheets)
 
 _Taught by Dr Zhou Lifeng and Prof Roger Zimmermann, AY20/21 Semester 1_
+
+<p align="center">
+    <a href="cs2105/CS2105 Cheatsheet.pdf" target="_blank">
+        <img src="docs/cs2105-img1.png" width="100%" alt="CS2105 Cheatsheet"/>
+    </a>
+</p>
 
 ### Concepts Covered
 
