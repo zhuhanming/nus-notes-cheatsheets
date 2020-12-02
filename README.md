@@ -268,6 +268,13 @@ _Taught by Dr Cristina Carbunaru, AY20/21 Semester 1_
 
 _Taught by Prof Lim Chinghway, AY20/21 Semester 1_
 
+<p align="center">
+    <a href="st2334/ST2334 Notes.pdf" target="_blank">
+        <img src="docs/st2334-img1.png" width="15%" alt="ST2334 Notes"/>
+    </a>
+</p>
+<p align="center"><em><sup>Website version of the notes can also be accessed <a href="https://www.notion.so/hanming/ST2334-Notes-7cc2a169bb044b8e97be9b3c48041f5f" target="_blank" noreferrer noopener >here on Notion</a>.</sup></em></p>
+
 ### Concepts Covered
 
 - Basic Concepts of Probability
