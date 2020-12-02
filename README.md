@@ -1,26 +1,32 @@
+<!-- markdownlint-disable MD036 MD033 MD024 -->
+
 # NUS Computer Science Notes & Cheatsheets
 
-*By Hanming Zhu (2019-2023)*
+_By Hanming Zhu (2019-2023)_
 
-These are some notes and cheatsheets written by me during the course of my time in NUS Computer Science. The notes are meant to be used as revision materials or even **replacements for lecture notes**. 
+These are some notes and cheatsheets written by me during the course of my time in NUS Computer Science. The notes are meant to be used as revision materials or even **replacements for lecture notes**.
 
 These notes/cheatsheets include information from, but not limited to:
+
 - Lecture Notes
 - Tutorials, Assignments and Past Year Papers
 - Textbooks
 - Online resources (Relevant sites, Udemy courses)
 
-## Contents (in chronological order)
+## Contents (In Chronological Order)
 
 - [CS2030 - Programming Methodology II (Taken in AY18/19 Special Term II)](#cs2030---programming-methodology-ii-notes)
 - [CS2040 - Data Structures and Algorithms (Taken in AY18/19 Special Term II)](#cs2040---data-structures-and-algorithms-notes)
 - [CS2107 - Introduction to Information Security (Taken in AY19/20 Semester 1)](#cs2107---introduction-to-information-security-notes)
 - [MA1101R - Linear Algebra I (Taken in AY19/20 Semester 2)](#ma1101r---linear-algebra-i-cheatsheets)
 - [GER1000 - Quantitative Reasoning (Taken in AY19/20 Semester2)](#ger1000---quantitative-reasoning-notes)
+- [CS2105 - Introduction to Computer Networks (Taken in AY20/21 Semester 1)](#cs2105---introduction-to-computer-networks)
+- [CS2106 - Introduction to Operating Systems (Taken in AY20/21 Semester 1)](#cs2105---introduction-to-operating-systems)
+- [ST2334 - Probability and Statistics (Taken in AY20/21 Semester 1)](#st2334---probability-and-statistics)
 
 ## [CS2030 - Programming Methodology II](cs2030) (Notes)
 
-*Taught by Mr Adi Sidi Yoga Prabawa, AY18/19 Special Term II*
+_Taught by Mr Adi Sidi Yoga Prabawa, AY18/19 Special Term II_
 
 <p align="center">
     <a href="cs2030/Object Oriented Programming.pdf" target="_blank">
@@ -32,14 +38,14 @@ These notes/cheatsheets include information from, but not limited to:
     </a>
 </p>
 
-### Concepts Covered:
+### Concepts Covered
 
 - Object Oriented Programming
 - Streams and Functional Programming
 
 ## [CS2040 - Data Structures and Algorithms](cs2040) (Notes)
 
-*Taught by Dr Chong Ket Fah, AY18/19 Special Term II*
+_Taught by Dr Chong Ket Fah, AY18/19 Special Term II_
 
 <p align="center">
     <a href="cs2040/1 - Complexities and Searching.pdf" target="_blank">
@@ -97,32 +103,32 @@ These notes/cheatsheets include information from, but not limited to:
     </a>
 </p>
 
-### Concepts Covered:
+### Concepts Covered
 
 - **Introduction**
-    - Algorithms
-    - Big-O Notation
+  - Algorithms
+  - Big-O Notation
 - **Data Structures**
-    - Arrays
-    - Linked Lists
-    - Stacks
-    - Queues
-    - Hash Maps
-    - Sets (UFDS)
-    - Ordered Maps
-    - Graphs
+  - Arrays
+  - Linked Lists
+  - Stacks
+  - Queues
+  - Hash Maps
+  - Sets (UFDS)
+  - Ordered Maps
+  - Graphs
 - **Algorithms**
-    - Searching
-    - Sorting
-    - BFS/DFS
-    - Prim's/Kruskal's
-    - Bellman Ford's
-    - Dijkstra's (Original/Modified)
-    - Floyd-Warshall
+  - Searching
+  - Sorting
+  - BFS/DFS
+  - Prim's/Kruskal's
+  - Bellman Ford's
+  - Dijkstra's (Original/Modified)
+  - Floyd-Warshall
 
 ## [CS2107 - Introduction to Information Security](cs2107) (Notes)
 
-*Taught by Dr Sufatrio, AY19/20 Semester 1*
+_Taught by Dr Sufatrio, AY19/20 Semester 1_
 
 <p align="center">
     <a href="cs2107/1 - Security Requirements.pdf" target="_blank">
@@ -167,13 +173,13 @@ These notes/cheatsheets include information from, but not limited to:
     </a>
 </p>
 
-### Concepts Covered:
+### Concepts Covered
 
 - Security Requirements
 - **Key Concepts of Principal Protection Mechanisms**
-    - Cryptography and Encryption
-    - Authentication
-    - Access Control
+  - Cryptography and Encryption
+  - Authentication
+  - Access Control
 - Public Key Infrastructure and Certificate Authority
 - Network Security
 - Software Security
@@ -181,7 +187,7 @@ These notes/cheatsheets include information from, but not limited to:
 
 ## [MA1101R - Linear Algebra I](ma1101r) (Cheatsheets)
 
-*Taught by Prof Raghavan Dilip, AY19/20 Semester 2*
+_Taught by Prof Raghavan Dilip, AY19/20 Semester 2_
 
 <p align="center">
     <a href="ma1101r/Midterm Cheatsheet.pdf" target="_blank">
@@ -190,7 +196,7 @@ These notes/cheatsheets include information from, but not limited to:
 </p>
 <p align="center"><em><sup>Midterm cheatsheet contains content from Chapter 1.1 to 2.5</sup></em></p>
 
-### Concepts Covered:
+### Concepts Covered
 
 - Linear Systems and Gaussian Elimination
 - Matrices
@@ -202,7 +208,7 @@ These notes/cheatsheets include information from, but not limited to:
 
 ## [GER1000 - Quantitative Reasoning](ger1000) (Notes)
 
-*Headed by Prof Yap Von Bing, AY19/20 Semester 2*
+_Headed by Prof Yap Von Bing, AY19/20 Semester 2_
 
 <p align="center">
     <a href="ger1000/GER1000 Notes.pdf" target="_blank">
@@ -211,8 +217,7 @@ These notes/cheatsheets include information from, but not limited to:
 </p>
 <p align="center"><em><sup>Website version of the notes can also be accessed <a href="https://www.notion.so/GER1000-Notes-1fdda95730e94b758676ac64f01dae3c" target="_blank" noreferrer noopener >here on Notion</a>.</sup></em></p>
 
-
-### Concepts Covered:
+### Concepts Covered
 
 - QR Framework
 - Design of Studies
@@ -220,3 +225,49 @@ These notes/cheatsheets include information from, but not limited to:
 - Sampling
 - Observational Studies
 - Uncertainty
+
+## [CS2105 - Introduction to Computer Networks](cs2105) (Cheatsheets)
+
+_Taught by Dr Zhou Lifeng and Prof Roger Zimmermann, AY20/21 Semester 1_
+
+### Concepts Covered
+
+- Application Layer
+- Transport Layer
+- Network Layer
+- Link Layer
+- Multimedia Networking
+- Network Security
+- Physical Layer
+
+## [CS2106 - Introduction to Operating Systems](cs2106) (Cheatsheets)
+
+_Taught by Dr Cristina Carbunaru, AY20/21 Semester 1_
+
+### Concepts Covered
+
+- Introduction to OS
+- Process Abstraction
+- Process Scheduling
+- Inter-Process Communication
+- Threads
+- Synchronisation
+- Memory Abstraction
+- Disjoint Memory
+- Virtual Memory
+- File System Abstraction
+- File System Implementation
+
+## [ST2334 - Probability and Statistics](st2334) (Notes)
+
+_Taught by Prof Lim Chinghway, AY20/21 Semester 1_
+
+### Concepts Covered
+
+- Basic Concepts of Probability
+- Concepts of Random Variables
+- Two Dimensional Random Variables and Conditional Probability Distributions
+- Special Probability Distributions
+- Sampling and Sampling Distributions
+- Estimation Based on Normal Distribution
+- Hypotheses Testing Based on Normal Distribution
