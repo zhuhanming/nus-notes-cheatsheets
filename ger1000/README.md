@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD036 MD033 MD024 MD028 MD026 -->
+
 # GER1000 Notes
 
 The following notes are adapted from the [original copy on Notion](https://www.notion.so/hanming/GER1000-Notes-1fdda95730e94b758676ac64f01dae3c). Do check it out there for the beautified version.
@@ -18,7 +20,7 @@ The following notes are adapted from the [original copy on Notion](https://www.n
 
 ## Design of Studies
 
-*Collect, Analyse, Communicate*
+_Collect, Analyse, Communicate_
 
 ### Problem Faced: Effect of Treatment
 
@@ -78,7 +80,7 @@ Furthermore, an observational study **can only establish association**.
 
 ### Introduction: Context of an Observational Study
 
-*Collect, Analyse*
+_Collect, Analyse_
 
 We can represent the results of an observational study using a 2x2 table. Note that it's 2x2 because the exposure and disease are both either present or absent, and do not refer to the actual dimensions of the table.
 
@@ -91,12 +93,13 @@ We can represent the results of an observational study using a 2x2 table. Note t
 There are thus two ways to show association.
 
 > :fire: **Disease (X) and Exposure (Y) are associated if**
+>
 > 1. Rate(X|Y) ≠ Rate(X|not Y), or
 > 2. Rate(Y|X) ≠ Rate(Y|not X)
 
 where Rate(X|Y) = ((X and Y) ÷ Y) x 100%.
 
-Using the table above, Rate(Exposed|Diseased) = 38 ÷ 82 x  100% = 46.3%, while Rate(Exposed|Not Diseased) = 14962 ÷ 99918 x 100% = 15.0%.
+Using the table above, Rate(Exposed|Diseased) = 38 ÷ 82 x 100% = 46.3%, while Rate(Exposed|Not Diseased) = 14962 ÷ 99918 x 100% = 15.0%.
 
 Since the two rates are not equal, there is an association between the exposure and the disease.
 
@@ -139,7 +142,7 @@ In other words, if in **most** groups Rate(A|B) > Rate(A|not B), but the combine
 
 ### More on Association: Statistical Relationship
 
-*Analyse, Communicate*
+_Analyse, Communicate_
 
 In studies, we're interested to found an average pattern of one variable in terms of another. This would help us to figure out **non-deterministic relationships**.
 
@@ -154,8 +157,8 @@ There are a few ways to analyse bivariate data:
 1. **Average:** We can find the averages for the two variables. However, this is not of much significance.
 2. **Standard Deviation:** This describes the spread or variability of the data around the average.
 3. **Scatter Diagram:** We can plot a scatter diagram with the data points.
-    1. **45° line:** If the two variables are of the same scale, we can draw a 45° line to see the distribution of points above and below the line. If it's above, then x<y, while the opposite means x>y.
-    2. **Shape:** We can analyse the shape of the "cloud" formed by the points. If the shape is elongated along the top-right to bottom-left line, then the there is positive association between the two variables. If it is elongated along the top-left to bottom-right line, then there is a negative association.
+   1. **45° line:** If the two variables are of the same scale, we can draw a 45° line to see the distribution of points above and below the line. If it's above, then x<y, while the opposite means x>y.
+   2. **Shape:** We can analyse the shape of the "cloud" formed by the points. If the shape is elongated along the top-right to bottom-left line, then the there is positive association between the two variables. If it is elongated along the top-left to bottom-right line, then there is a negative association.
 4. **Correlation Coefficient:** Quantifies the relationship. More on this in the next section.
 5. **Linear Regression:** Derives a line of best fit to data. More on this in a later section.
 
@@ -371,7 +374,7 @@ Taking larger sample sizes reduces the random error! If this sample size reaches
 
 ### Confidence Intervals
 
-Confidence interval is the range of values that we are reasonably certain our parameter lies in. 
+Confidence interval is the range of values that we are reasonably certain our parameter lies in.
 
 It is also a way to report results while accounting for random error.
 
@@ -403,17 +406,17 @@ Thus, the **Risk(Disease) = 82 ÷ 100000 = 0.00082.**
 
 ### **Risk Ratio: Relative Risk**
 
-Risk ratio = Risk(Diseased|Exposed) ÷ Risk(Diseased|Not Exposed) = (38 ÷ 15000) ÷ (44 ÷ 85000) = 4.8939. 
+Risk ratio = Risk(Diseased|Exposed) ÷ Risk(Diseased|Not Exposed) = (38 ÷ 15000) ÷ (44 ÷ 85000) = 4.8939.
 
 This is also known as Relative Risk.
 
->:fire: **RR > 1:** The first group has greater risk. 
+> :fire: **RR > 1:** The first group has greater risk.
 > **RR < 1:** The second group has greater risk.
 > **RR = 1:** There is no association between the disease and the exposure.
 
 ### Odds: What is it?
 
-Unlike risks, which is calculated by the rate of a disease, odds is calculated by Odds(Disease) = Risk(Disease) ÷ (1 - Risk(Disease)). 
+Unlike risks, which is calculated by the rate of a disease, odds is calculated by Odds(Disease) = Risk(Disease) ÷ (1 - Risk(Disease)).
 
 In other words, it's Number(Disease) ÷ Number(Not Diseased).
 
@@ -423,7 +426,7 @@ Using the contingency table above, **Odds(Disease) = 82 ÷ 99918 = 0.00082067.**
 
 ### Odds Ratio
 
-Odds Ratio = Odds(Diseased|Exposed) ÷ Odds(Diseased|Not Exposed). 
+Odds Ratio = Odds(Diseased|Exposed) ÷ Odds(Diseased|Not Exposed).
 
 With just the odds ratio, one is unable to calculate the risk ratio.
 
@@ -496,31 +499,31 @@ There are two ways to this:
 
 > :bulb: P(Event) = Probability of an event
 
-![$P(A^C)=1-P(A)$](https://render.githubusercontent.com/render/math?math=%24P(A%5EC)%3D1-P(A)%24)
+![$P(A^C)=1-P(A)$](<https://render.githubusercontent.com/render/math?math=%24P(A%5EC)%3D1-P(A)%24>)
 
 ### Addition Rule
 
 For mutually exclusive events,
 
-![$P(A\cup B)=P(A)+P(B)$](https://render.githubusercontent.com/render/math?math=%24P(A%5Ccup%20B)%3DP(A)%2BP(B)%24)
+![$P(A\cup B)=P(A)+P(B)$](<https://render.githubusercontent.com/render/math?math=%24P(A%5Ccup%20B)%3DP(A)%2BP(B)%24>)
 
 For events that are not mutually exclusive,
 
-![$P(A\cup B)=P(A)+P(B)-P(A\cap B)$](https://render.githubusercontent.com/render/math?math=%24P(A%5Ccup%20B)%3DP(A)%2BP(B)-P(A%5Ccap%20B)%24)
+![$P(A\cup B)=P(A)+P(B)-P(A\cap B)$](<https://render.githubusercontent.com/render/math?math=%24P(A%5Ccup%20B)%3DP(A)%2BP(B)-P(A%5Ccap%20B)%24>)
 
 ### Multiplication Rule
 
 For independent events,
 
-![$P(A\cap B)=P(A)\cdot P(B)$](https://render.githubusercontent.com/render/math?math=%24P(A%5Ccap%20B)%3DP(A)%5Ccdot%20P(B)%24)
+![$P(A\cap B)=P(A)\cdot P(B)$](<https://render.githubusercontent.com/render/math?math=%24P(A%5Ccap%20B)%3DP(A)%5Ccdot%20P(B)%24>)
 
 For events that are not independent,
 
-![$P(A\cap B)=P(A)\cdot P(B|A)$](https://render.githubusercontent.com/render/math?math=%24P(A%5Ccap%20B)%3DP(A)%5Ccdot%20P(B%7CA)%24)
+![$P(A\cap B)=P(A)\cdot P(B|A)$](<https://render.githubusercontent.com/render/math?math=%24P(A%5Ccap%20B)%3DP(A)%5Ccdot%20P(B%7CA)%24>)
 
 ### Conditional Probability
 
-![$P(A|B)=\frac{P(A\cap B)}{P(B)}$](https://render.githubusercontent.com/render/math?math=%24P(A%7CB)%3D%5Cfrac%7BP(A%5Ccap%20B)%7D%7BP(B)%7D%24)
+![$P(A|B)=\frac{P(A\cap B)}{P(B)}$](<https://render.githubusercontent.com/render/math?math=%24P(A%7CB)%3D%5Cfrac%7BP(A%5Ccap%20B)%7D%7BP(B)%7D%24>)
 
 > :bulb: P(A|B) generally does not equal P(B|A).
 
@@ -528,15 +531,15 @@ For events that are not independent,
 
 By the consistency rule,
 
-![$\text{if } P(A|B) \text{ > } P(A), \text{ then } P(B|A) \text{ > } P(B)$](https://render.githubusercontent.com/render/math?math=%24%5Ctext%7Bif%20%7D%20P(A%7CB)%20%5Ctext%7B%20%3E%20%7D%20P(A)%2C%20%5Ctext%7B%20then%20%7D%20P(B%7CA)%20%5Ctext%7B%20%3E%20%7D%20P(B)%24)
+![$\text{if } P(A|B) \text{ > } P(A), \text{ then } P(B|A) \text{ > } P(B)$](<https://render.githubusercontent.com/render/math?math=%24%5Ctext%7Bif%20%7D%20P(A%7CB)%20%5Ctext%7B%20%3E%20%7D%20P(A)%2C%20%5Ctext%7B%20then%20%7D%20P(B%7CA)%20%5Ctext%7B%20%3E%20%7D%20P(B)%24>)
 
 ### Relation to Odds
 
-![$Odds(E)=\frac{P(E)}{P(E^C)}$](https://render.githubusercontent.com/render/math?math=%24Odds(E)%3D%5Cfrac%7BP(E)%7D%7BP(E%5EC)%7D%24)
+![$Odds(E)=\frac{P(E)}{P(E^C)}$](<https://render.githubusercontent.com/render/math?math=%24Odds(E)%3D%5Cfrac%7BP(E)%7D%7BP(E%5EC)%7D%24>)
 
 ### Average Values
 
-![$\text{V}_\text{avg} = V(A)\cdot P(A)+V(B)\cdot P(B)+...$](https://render.githubusercontent.com/render/math?math=%24%5Ctext%7BV%7D_%5Ctext%7Bavg%7D%20%3D%20V(A)%5Ccdot%20P(A)%2BV(B)%5Ccdot%20P(B)%2B...%24)
+![$\text{V}_\text{avg} = V(A)\cdot P(A)+V(B)\cdot P(B)+...$](<https://render.githubusercontent.com/render/math?math=%24%5Ctext%7BV%7D_%5Ctext%7Bavg%7D%20%3D%20V(A)%5Ccdot%20P(A)%2BV(B)%5Ccdot%20P(B)%2B...%24>)
 
 ### Hypothesis Testing
 
@@ -552,7 +555,7 @@ This total probability is the p-value.
 
 If the p-value is low enough, usually <0.05, then we can reject the null hypothesis, else **we don't know if it's due to chance or not.**
 
-![$\text{P-value}=\text{P(observation | null is true)} + \text{P(equally extreme outcomes | null is true)}+\text{P(outcomes that are more extreme | null is true)}$](https://render.githubusercontent.com/render/math?math=%24%5Ctext%7BP-value%7D%3D%5Ctext%7BP(observation%20%7C%20null%20is%20true)%7D%20%2B%20%5Ctext%7BP(equally%20extreme%20outcomes%20%7C%20null%20is%20true)%7D%2B%5Ctext%7BP(outcomes%20that%20are%20more%20extreme%20%7C%20null%20is%20true)%7D%24)
+![$\text{P-value}=\text{P(observation | null is true)} + \text{P(equally extreme outcomes | null is true)}+\text{P(outcomes that are more extreme | null is true)}$](<https://render.githubusercontent.com/render/math?math=%24%5Ctext%7BP-value%7D%3D%5Ctext%7BP(observation%20%7C%20null%20is%20true)%7D%20%2B%20%5Ctext%7BP(equally%20extreme%20outcomes%20%7C%20null%20is%20true)%7D%2B%5Ctext%7BP(outcomes%20that%20are%20more%20extreme%20%7C%20null%20is%20true)%7D%24>)
 
 > :fire: **Not rejecting** the null hypothesis **does not mean** that the null hypothesis is true.
 
