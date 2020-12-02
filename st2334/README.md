@@ -4,6 +4,8 @@
 
 _Taught by Prof Lim Chinghway, AY20/21 Semester 1_
 
+> If you view the PDF on GitHub, a lot of the Latex will appear to be missing! Either download the PDF or view it on Notion instead.
+
 <p align="center">
     <a href="ST2334 Notes.pdf" target="_blank">
         <img src="../docs/st2334-img1.png" width="15%" alt="ST2334 Notes"/>
