@@ -21,7 +21,7 @@ These notes/cheatsheets include information from, but not limited to:
 - [MA1101R - Linear Algebra I (Taken in AY19/20 Semester 2)](#ma1101r---linear-algebra-i-cheatsheets)
 - [GER1000 - Quantitative Reasoning (Taken in AY19/20 Semester2)](#ger1000---quantitative-reasoning-notes)
 - [CS2105 - Introduction to Computer Networks (Taken in AY20/21 Semester 1)](#cs2105---introduction-to-computer-networks-cheatsheets)
-- [CS2106 - Introduction to Operating Systems (Taken in AY20/21 Semester 1)](#cs2105---introduction-to-operating-systems-cheatsheets)
+- [CS2106 - Introduction to Operating Systems (Taken in AY20/21 Semester 1)](#cs2106---introduction-to-operating-systems-cheatsheets)
 - [ST2334 - Probability and Statistics (Taken in AY20/21 Semester 1)](#st2334---probability-and-statistics-notes)
 
 ## [CS2030 - Programming Methodology II](cs2030) (Notes)
