@@ -23,7 +23,7 @@ These notes/cheatsheets include information from, but not limited to:
 - [CS2105 - Introduction to Computer Networks (Taken in AY20/21 Semester 1)](#cs2105---introduction-to-computer-networks-cheatsheets)
 - [CS2106 - Introduction to Operating Systems (Taken in AY20/21 Semester 1)](#cs2106---introduction-to-operating-systems-cheatsheets)
 - [ST2334 - Probability and Statistics (Taken in AY20/21 Semester 1)](#st2334---probability-and-statistics-notes)
-- [CS2102 - Database Systems](#cs2102---database-systems)
+- [CS2102 - Database Systems (Taken in AY20/21 Semester 2)](#cs2102---database-systems-cheatsheets)
 
 ## [CS2030 - Programming Methodology II](cs2030) (Notes)
 
@@ -293,3 +293,36 @@ _Taught by Prof Lim Chinghway, AY20/21 Semester 1_
 - Sampling and Sampling Distributions
 - Estimation Based on Normal Distribution
 - Hypotheses Testing Based on Normal Distribution
+
+## [CS2102 - Database Systems](cs2102) (Cheatsheets)
+
+_Taught by Dr Chan Chee Yong and Prof Xiao Xiaokui, AY20/21 Semester 2_
+
+<p align="center">
+    <a href="cs2102/CS2102 Midterms Cheatsheet.pdf" target="_blank">
+        <img src="docs/cs2102-img1.png" width="100%" alt="CS2102 Midterms Cheatsheet"/>
+    </a>
+</p>
+<p align="center"><em><sup>Midterms cheatsheet contains content on Relational Algebra, SQL and Entity-Relationship Model.</sup></em></p>
+
+<p align="center">
+    <a href="cs2102/CS2102 Finals Cheatsheet.pdf" target="_blank">
+        <img src="docs/cs2102-img2.png" width="100%" alt="CS2102 Finals Cheatsheet"/>
+    </a>
+</p>
+<p align="center"><em><sup>Finals Cheatsheet</sup></em></p>
+
+### Concepts Covered
+
+- Introduction to DBMS
+- Relational Algebra
+- SQL
+- Entity-Relationship Model
+- Statement-Level & Call-Level Interfaces
+- SQL/Persistent Stored Modules - PL/pgSQL
+  - Functions & Procedures
+  - Triggers
+- SQL Injection Attacks
+- Normal Forms
+  - Functional Dependencies
+  - BCNF & 3NF
