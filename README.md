@@ -31,11 +31,11 @@ _Taught by Mr Adi Sidi Yoga Prabawa, AY18/19 Special Term II_
 
 <p align="center">
     <a href="cs2030/Object Oriented Programming.pdf" target="_blank">
-        <img src="docs/cs2030-img1.png" width="15%" alt="Object Oriented Programming Notes"/>
+        <img src="docs/cs2030-img1.png" width="15%" alt="CS2030 Object Oriented Programming Notes"/>
     </a>
     &nbsp;
     <a href="cs2030/Streams and Functional Programming.pdf" target="_blank">
-        <img src="docs/cs2030-img2.png" width="15%" alt="Streams and Functional Programming Notes"/>
+        <img src="docs/cs2030-img2.png" width="15%" alt="CS2030 Streams and Functional Programming Notes"/>
     </a>
 </p>
 
@@ -50,57 +50,57 @@ _Taught by Dr Chong Ket Fah, AY18/19 Special Term II_
 
 <p align="center">
     <a href="cs2040/1 - Complexities and Searching.pdf" target="_blank">
-        <img src="docs/cs2040-img1.png" width="15%" alt="Complexities and Searching Notes"/>
+        <img src="docs/cs2040-img1.png" width="15%" alt="CS2040 Complexities and Searching Notes"/>
     </a>
     &nbsp;
     <a href="cs2040/2 - Sorting.pdf" target="_blank">
-        <img src="docs/cs2040-img2.png" width="15%" alt="Sorting Notes"/>
+        <img src="docs/cs2040-img2.png" width="15%" alt="CS2040 Sorting Notes"/>
     </a>
     &nbsp;
     <a href="cs2040/3 - Arrays and Linked Lists.pdf" target="_blank">
-        <img src="docs/cs2040-img3.png" width="15%" alt="Arrays and Linked Lists Notes"/>
+        <img src="docs/cs2040-img3.png" width="15%" alt="CS2040 Arrays and Linked Lists Notes"/>
     </a>
     &nbsp;
     <a href="cs2040/4 - Lists Stacks and Queues.pdf" target="_blank">
-        <img src="docs/cs2040-img4.png" width="15%" alt="Lists, Stacks and Queues Notes"/>
+        <img src="docs/cs2040-img4.png" width="15%" alt="CS2040 Lists, Stacks and Queues Notes"/>
     </a>
     &nbsp;
     <a href="cs2040/5 - HashTable and Collisions.pdf" target="_blank">
-        <img src="docs/cs2040-img5.png" width="15%" alt="Hashtable and Collisions Notes"/>
+        <img src="docs/cs2040-img5.png" width="15%" alt="CS2040 Hashtable and Collisions Notes"/>
     </a>
 </p>
 <p align="center">
     <a href="cs2040/6 - Priority Queue and Binary Heap.pdf" target="_blank">
-        <img src="docs/cs2040-img6.png" width="15%" alt="Priority Queue and Binary Heap Notes"/>
+        <img src="docs/cs2040-img6.png" width="15%" alt="CS2040 Priority Queue and Binary Heap Notes"/>
     </a>
     &nbsp;
     <a href="cs2040/7 - Set and UFDS.pdf" target="_blank">
-        <img src="docs/cs2040-img7.png" width="15%" alt="Set and UFDS Notes"/>
+        <img src="docs/cs2040-img7.png" width="15%" alt="CS2040 Set and UFDS Notes"/>
     </a>
     &nbsp;
     <a href="cs2040/8 - Ordered Map and BST.pdf" target="_blank">
-        <img src="docs/cs2040-img8.png" width="15%" alt="Ordered Map and BST Notes"/>
+        <img src="docs/cs2040-img8.png" width="15%" alt="CS2040 Ordered Map and BST Notes"/>
     </a>
     &nbsp;
     <a href="cs2040/9 - AVL Trees and Balancing.pdf" target="_blank">
-        <img src="docs/cs2040-img9.png" width="15%" alt="AVL Trees and Balancing Notes"/>
+        <img src="docs/cs2040-img9.png" width="15%" alt="CS2040 AVL Trees and Balancing Notes"/>
     </a>
     &nbsp;
     <a href="cs2040/10 - Graphs.pdf" target="_blank">
-        <img src="docs/cs2040-img10.png" width="15%" alt="Graphs Notes"/>
+        <img src="docs/cs2040-img10.png" width="15%" alt="CS2040 Graphs Notes"/>
     </a>
 </p>
 <p align="center">
     <a href="cs2040/11 - Graph Operations and Analysis.pdf" target="_blank">
-        <img src="docs/cs2040-img11.png" width="15%" alt="Graph Operations and Analysis Notes"/>
+        <img src="docs/cs2040-img11.png" width="15%" alt="CS2040 Graph Operations and Analysis Notes"/>
     </a>
     &nbsp;
     <a href="cs2040/12 - Minimum Spanning Tree.pdf" target="_blank">
-        <img src="docs/cs2040-img12.png" width="15%" alt="Minimum Spanning Tree Notes"/>
+        <img src="docs/cs2040-img12.png" width="15%" alt="CS2040 Minimum Spanning Tree Notes"/>
     </a>
     &nbsp;
     <a href="cs2040/13 - Single Source Shortest Path.pdf" target="_blank">
-        <img src="docs/cs2040-img13.png" width="15%" alt="Single Source Shortest Path Notes"/>
+        <img src="docs/cs2040-img13.png" width="15%" alt="CS2040 Single Source Shortest Path Notes"/>
     </a>
 </p>
 
@@ -133,44 +133,44 @@ _Taught by Dr Sufatrio, AY19/20 Semester 1_
 
 <p align="center">
     <a href="cs2107/1 - Security Requirements.pdf" target="_blank">
-        <img src="docs/cs2107-img1.png" width="15%" alt="Security Requirements Notes"/>
+        <img src="docs/cs2107-img1.png" width="15%" alt="CS2107 Security Requirements Notes"/>
     </a>
     &nbsp;
     <a href="cs2107/2 - Cryptography and Encryption.pdf" target="_blank">
-        <img src="docs/cs2107-img2.png" width="15%" alt="Cryptography and Encryption Notes"/>
+        <img src="docs/cs2107-img2.png" width="15%" alt="CS2107 Cryptography and Encryption Notes"/>
     </a>
     &nbsp;
     <a href="cs2107/3 - Entity Authentication.pdf" target="_blank">
-        <img src="docs/cs2107-img3.png" width="15%" alt="Entity Authentication Notes"/>
+        <img src="docs/cs2107-img3.png" width="15%" alt="CS2107 Entity Authentication Notes"/>
     </a>
     &nbsp;
     <a href="cs2107/4 - Data Origin Authentication.pdf" target="_blank">
-        <img src="docs/cs2107-img4.png" width="15%" alt="Data Origin Authentication Notes"/>
+        <img src="docs/cs2107-img4.png" width="15%" alt="CS2107 Data Origin Authentication Notes"/>
     </a>
     &nbsp;
     <a href="cs2107/5 - Public Key Infrastructure.pdf" target="_blank">
-        <img src="docs/cs2107-img5.png" width="15%" alt="Public Key Infrastructure Notes"/>
+        <img src="docs/cs2107-img5.png" width="15%" alt="CS2107 Public Key Infrastructure Notes"/>
     </a>
 </p>
 <p align="center">
     <a href="cs2107/6 - HTTPS.pdf" target="_blank">
-        <img src="docs/cs2107-img6.png" width="15%" alt="HTTPS Notes"/>
+        <img src="docs/cs2107-img6.png" width="15%" alt="CS2107 HTTPS Notes"/>
     </a>
     &nbsp;
     <a href="cs2107/7 - Network Security.pdf" target="_blank">
-        <img src="docs/cs2107-img7.png" width="15%" alt="Network Security Notes"/>
+        <img src="docs/cs2107-img7.png" width="15%" alt="CS2107 Network Security Notes"/>
     </a>
     &nbsp;
     <a href="cs2107/8 - Access Control.pdf" target="_blank">
-        <img src="docs/cs2107-img8.png" width="15%" alt="Access Control Notes"/>
+        <img src="docs/cs2107-img8.png" width="15%" alt="CS2107 Access Control Notes"/>
     </a>
     &nbsp;
     <a href="cs2107/9 - Software Security.pdf" target="_blank">
-        <img src="docs/cs2107-img9.png" width="15%" alt="Software Security Notes"/>
+        <img src="docs/cs2107-img9.png" width="15%" alt="CS2107 Software Security Notes"/>
     </a>
     &nbsp;
     <a href="cs2107/10 - Web Security.pdf" target="_blank">
-        <img src="docs/cs2107-img10.png" width="15%" alt="Web Security Notes"/>
+        <img src="docs/cs2107-img10.png" width="15%" alt="CS2107 Web Security Notes"/>
     </a>
 </p>
 
