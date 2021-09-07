@@ -23,6 +23,7 @@ These notes/cheatsheets include information from, but not limited to:
 - [CS2105 - Introduction to Computer Networks (Taken in AY20/21 Semester 1)](#cs2105---introduction-to-computer-networks-cheatsheets)
 - [CS2106 - Introduction to Operating Systems (Taken in AY20/21 Semester 1)](#cs2106---introduction-to-operating-systems-cheatsheets)
 - [ST2334 - Probability and Statistics (Taken in AY20/21 Semester 1)](#st2334---probability-and-statistics-notes)
+- [CS2102 - Database Systems](#cs2102---database-systems)
 
 ## [CS2030 - Programming Methodology II](cs2030) (Notes)
 
@@ -190,11 +191,11 @@ _Taught by Dr Sufatrio, AY19/20 Semester 1_
 _Taught by Prof Raghavan Dilip, AY19/20 Semester 2_
 
 <p align="center">
-    <a href="ma1101r/Midterm Cheatsheet.pdf" target="_blank">
-        <img src="docs/ma1101r-img1.png" width="100%" alt="Midterm Cheatsheet"/>
+    <a href="ma1101r/MA1101R Midterms Cheatsheet.pdf" target="_blank">
+        <img src="docs/ma1101r-img1.png" width="100%" alt="MA1101R Midterms Cheatsheet"/>
     </a>
 </p>
-<p align="center"><em><sup>Midterm cheatsheet contains content from Chapter 1.1 to 2.5</sup></em></p>
+<p align="center"><em><sup>Midterms cheatsheet contains content from Chapter 1.1 to 2.5</sup></em></p>
 
 ### Concepts Covered
 
