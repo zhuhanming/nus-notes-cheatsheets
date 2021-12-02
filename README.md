@@ -24,7 +24,7 @@ These notes/cheatsheets include information from, but not limited to:
 - [CS2106 - Introduction to Operating Systems (Taken in AY20/21 Semester 1)](#cs2106---introduction-to-operating-systems-cheatsheets)
 - [ST2334 - Probability and Statistics (Taken in AY20/21 Semester 1)](#st2334---probability-and-statistics-notes)
 - [CS2102 - Database Systems (Taken in AY20/21 Semester 2)](#cs2102---database-systems-cheatsheets)
-- [CS3219 - Software Engineering Principles and Patterns](#cs3219---software-engineering-principles-and-patterns-cheatsheets)
+- [CS3219 - Software Engineering Principles and Patterns (Taken in AY21/22 Semester 1)](#cs3219---software-engineering-principles-and-patterns-cheatsheets)
 
 ## [CS2030 - Programming Methodology II](cs2030) (Notes)
 
