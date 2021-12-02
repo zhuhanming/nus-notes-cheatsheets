@@ -24,6 +24,7 @@ These notes/cheatsheets include information from, but not limited to:
 - [CS2106 - Introduction to Operating Systems (Taken in AY20/21 Semester 1)](#cs2106---introduction-to-operating-systems-cheatsheets)
 - [ST2334 - Probability and Statistics (Taken in AY20/21 Semester 1)](#st2334---probability-and-statistics-notes)
 - [CS2102 - Database Systems (Taken in AY20/21 Semester 2)](#cs2102---database-systems-cheatsheets)
+- [CS3219 - Software Engineering Principles and Patterns](#cs3219---software-engineering-principles-and-patterns-cheatsheets)
 
 ## [CS2030 - Programming Methodology II](cs2030) (Notes)
 
@@ -326,3 +327,29 @@ _Taught by Dr Chan Chee Yong and Prof Xiao Xiaokui, AY20/21 Semester 2_
 - Normal Forms
   - Functional Dependencies
   - BCNF & 3NF
+
+## [CS3219 - Software Engineering Principles and Patterns](cs3219) (Cheatsheets)
+
+_Taught by Dr Bimlesh Wadhwa, AY21/22 Semester 1_
+
+<p align="center">
+    <a href="cs3219/CS3219 Cheatsheet.pdf" target="_blank">
+        <img src="docs/cs3219-img1.png" width="100%" alt="CS3219 Cheatsheet"/>
+    </a>
+</p>
+
+<p align="center"><em><sup>Strongly advised to read through design patterns on <a href="https://refactoring.guru" target="_blank" rel="noopener noreferrer">Refactoring Guru</a> before using this cheatsheet.</sup></em></p>
+
+### Concepts Covered
+
+- Software Development Process
+- Specifying Software Requirements
+- Software Architecture Styles
+- Software Architecture Patterns
+  - Hexagonal Architecture
+  - Domain Driven Design
+- Microservices
+- Kubernetes
+- Message Design Patterns
+  - Technologies
+- Object Interaction Design Patterns
