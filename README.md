@@ -25,6 +25,7 @@ These notes/cheatsheets include information from, but not limited to:
 - [ST2334 - Probability and Statistics (Taken in AY20/21 Semester 1)](#st2334---probability-and-statistics-notes)
 - [CS2102 - Database Systems (Taken in AY20/21 Semester 2)](#cs2102---database-systems-cheatsheets)
 - [CS3219 - Software Engineering Principles and Patterns (Taken in AY21/22 Semester 1)](#cs3219---software-engineering-principles-and-patterns-cheatsheets)
+- [CS2109S - Introduction to AI and Machine Learning (Taken in AY21/22 Semester 2)](#cs2109s---introduction-to-ai-and-machine-learning-cheatsheets)
 
 ## [CS2030 - Programming Methodology II](cs2030) (Notes)
 
@@ -353,3 +354,40 @@ _Taught by Dr Bimlesh Wadhwa, AY21/22 Semester 1_
 - Message Design Patterns
   - Technologies
 - Object Interaction Design Patterns
+
+## [CS2109S - Introduction to AI and Machine Learning](cs2109s) (Cheatsheets)
+
+_Taught by Dr Ben Leong, AY21/22 Semester 2_
+
+<p align="center">
+    <a href="cs2109s/CS2109S Midterms Cheatsheet.pdf" target="_blank">
+        <img src="docs/cs2109s-img1.png" width="100%" alt="CS2109S Midterms Cheatsheet"/>
+    </a>
+</p>
+<p align="center"><em><sup>Midterms cheatsheet contains content on Search Algorithms and part of Machine Learning.</sup></em></p>
+
+<p align="center">
+    <a href="cs2109s/CS2109S Finals Cheatsheet.pdf" target="_blank">
+        <img src="docs/cs2109s-img2.png" width="100%" alt="CS2109S Finals Cheatsheet"/>
+    </a>
+</p>
+<p align="center"><em><sup>Finals Cheatsheet</sup></em></p>
+
+<p align="center"><em><sup>Be warned that these cheatsheets may not be very applicable, as Prof Ben is known for testing practical applications and understanding over content knowledge and memorisation.</sup></em></p>
+
+### Concepts Covered
+
+- Uninformed and Informed Search
+- Heuristics
+- Adversarial Search
+- Decision Trees
+- Linear Regression and Gradient Descent
+- Polynomial Regression
+- Logistic Regression
+- Model Selection
+- Regularisation
+- Support Vector Machines
+- Multi-Layer Neural Networks
+- Deep Neural Networks
+- Clustering and Unsupervised Learning
+- AI Ethics
